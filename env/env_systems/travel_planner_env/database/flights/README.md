@@ -1,6 +1,5 @@
-# Local database of flights (compressed in github)
+# Local database of flights
 
-Committed a compressed version of clean_Flights_2022.csv.zip that is 58MB
-This file should be be decommpressed locally to expand to 290MB (and the decompressed version should be added to .gitignore) 
+Directory for clean_Flights_2022.csv (290MB, a compressed version is 58MB).
 
-The orginal was downloaded from this [link](https://drive.google.com/drive/folders/1fHBg6Ro4bSbTBgxeQZ6piYNtmqy8a_kK?usp=sharing)
+The orginal can be downloaded from [this link](https://drive.google.com/drive/folders/1fHBg6Ro4bSbTBgxeQZ6piYNtmqy8a_kK?usp=sharing).
